@@ -3,11 +3,11 @@ Report Estrazione Link da thisnot.business
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='20:00 Grosseto - Fiorentina', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYTE3OWU5OWMyNTUxNTVlMGIyNmI0ZjlmY2FkNzZjNWU6Mjk4MmU4NWE2MDBkM2Q0Y2IxYTA3YzY4NGE2YzljODk%3D&key_id=a179e99c255155e0b26b4f9fcad76c5e&key=2982e85a600d3d4cb1a07c684a6c9c89
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='20:00 Fiorentina - Carrarese', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYTE3OWU5OWMyNTUxNTVlMGIyNmI0ZjlmY2FkNzZjNWU6Mjk4MmU4NWE2MDBkM2Q0Y2IxYTA3YzY4NGE2YzljODk%3D&key_id=a179e99c255155e0b26b4f9fcad76c5e&key=2982e85a600d3d4cb1a07c684a6c9c89
 
 Pagina Evento: https://thisnot.business/player.php?id=Premiere4_BR
   Dettagli: Categoria='CALCIO', Evento='22:00 Vasco da Gama - Bahia', Canale='Premiere'
@@ -31,11 +31,11 @@ Pagina Evento: https://thisnot.business/player.php?id=RTE2
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='20:00 Grosseto - Fiorentina', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYTE3OWU5OWMyNTUxNTVlMGIyNmI0ZjlmY2FkNzZjNWU6Mjk4MmU4NWE2MDBkM2Q0Y2IxYTA3YzY4NGE2YzljODk%3D&key_id=a179e99c255155e0b26b4f9fcad76c5e&key=2982e85a600d3d4cb1a07c684a6c9c89
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='20:00 Fiorentina - Carrarese', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYTE3OWU5OWMyNTUxNTVlMGIyNmI0ZjlmY2FkNzZjNWU6Mjk4MmU4NWE2MDBkM2Q0Y2IxYTA3YzY4NGE2YzljODk%3D&key_id=a179e99c255155e0b26b4f9fcad76c5e&key=2982e85a600d3d4cb1a07c684a6c9c89
 
 Pagina Evento: https://thisnot.business/player.php?id=Premiere4_BR
   Dettagli: Categoria='CALCIO', Evento='22:00 Vasco da Gama - Bahia', Canale='Premiere'
@@ -59,11 +59,11 @@ Pagina Evento: https://thisnot.business/player.php?id=RTE2
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='20:00 Grosseto - Fiorentina', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYTE3OWU5OWMyNTUxNTVlMGIyNmI0ZjlmY2FkNzZjNWU6Mjk4MmU4NWE2MDBkM2Q0Y2IxYTA3YzY4NGE2YzljODk%3D&key_id=a179e99c255155e0b26b4f9fcad76c5e&key=2982e85a600d3d4cb1a07c684a6c9c89
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='20:00 Fiorentina - Carrarese', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYTE3OWU5OWMyNTUxNTVlMGIyNmI0ZjlmY2FkNzZjNWU6Mjk4MmU4NWE2MDBkM2Q0Y2IxYTA3YzY4NGE2YzljODk%3D&key_id=a179e99c255155e0b26b4f9fcad76c5e&key=2982e85a600d3d4cb1a07c684a6c9c89
 
 Pagina Evento: https://thisnot.business/player.php?id=Premiere4_BR
   Dettagli: Categoria='CALCIO', Evento='22:00 Vasco da Gama - Bahia', Canale='Premiere'
@@ -87,11 +87,11 @@ Pagina Evento: https://thisnot.business/player.php?id=RTE2
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='20:00 Grosseto - Fiorentina', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYTE3OWU5OWMyNTUxNTVlMGIyNmI0ZjlmY2FkNzZjNWU6Mjk4MmU4NWE2MDBkM2Q0Y2IxYTA3YzY4NGE2YzljODk%3D&key_id=a179e99c255155e0b26b4f9fcad76c5e&key=2982e85a600d3d4cb1a07c684a6c9c89
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='20:00 Fiorentina - Carrarese', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYTE3OWU5OWMyNTUxNTVlMGIyNmI0ZjlmY2FkNzZjNWU6Mjk4MmU4NWE2MDBkM2Q0Y2IxYTA3YzY4NGE2YzljODk%3D&key_id=a179e99c255155e0b26b4f9fcad76c5e&key=2982e85a600d3d4cb1a07c684a6c9c89
 
 Pagina Evento: https://thisnot.business/player.php?id=Premiere4_BR
   Dettagli: Categoria='CALCIO', Evento='22:00 Vasco da Gama - Bahia', Canale='Premiere'

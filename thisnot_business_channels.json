@@ -1,4 +1,16 @@
 {
+  "https://thisnot.business/player.php?id=Dazn": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYTE3OWU5OWMyNTUxNTVlMGIyNmI0ZjlmY2FkNzZjNWU6Mjk4MmU4NWE2MDBkM2Q0Y2IxYTA3YzY4NGE2YzljODk%3D&key_id=a179e99c255155e0b26b4f9fcad76c5e&key=2982e85a600d3d4cb1a07c684a6c9c89",
+    "info": {
+      "category": "CALCIO",
+      "title": "EUROPEI FEMMINILI - FINALE",
+      "date": "DOMENICA 27 LUGLIO",
+      "event": "20:00 Fiorentina - Carrarese",
+      "channel": "Dazn",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=Dazn"
+    }
+  },
   "https://thisnot.business/player.php?id=Premiere4_BR": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd&key_id=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98",
     "info": {
